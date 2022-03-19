@@ -5,7 +5,7 @@ se encuentra en la parte de "vectores" colocando las operaciones de vectores y m
 
 PROGRAMA SIMULACIÓN DE LO CLÁSICO A LO CUÁNTICO
 En este apartado, se tomó la decisión de cambiar la anterior "Libreria" para conseguir una adaptación correspondiente a las simulaciones indicadas en el proyecto,
-con el fin de conseguir una simulación limpia en base a las indicaciones de matrices y vectores dadas en el libro para cada uno de los casos correspondientes.
+con el fin de conseguir una simulación limpia en base a las indicaciones de matrices y vectores dadas en el libro para cada uno de los casos correspondientes, esto se ve en "simulacion".
 
 PROGRAMA SIMULACION RENDIJA
 En este apartado se creo un codigo especial para el funcionamiento y explicación de las probabilidades que se creaban a la hora de realizar el experimento de la
