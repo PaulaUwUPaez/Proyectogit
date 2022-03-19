@@ -9,7 +9,7 @@ con el fin de conseguir una simulación limpia en base a las indicaciones de mat
 
 PROGRAMA SIMULACION RENDIJA
 En este apartado se creo un codigo especial para el funcionamiento y explicación de las probabilidades que se creaban a la hora de realizar el experimento de la
-doble rendija, expuesto en clase.
+doble rendija, expuesto en clase "proyectoexposicion"
 
 
 
