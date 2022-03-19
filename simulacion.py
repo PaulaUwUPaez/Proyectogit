@@ -1,3 +1,8 @@
+#Escuela Colombiana de Ingeniera Julio Garabito
+#Ing sistemas
+#Manuel Felipe Barrera Barrera
+
+
 import Librerianueva as nc
 
 
