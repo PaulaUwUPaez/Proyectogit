@@ -1,3 +1,8 @@
+#Escuela Colombiana de ingeniera Julio Garabito
+#Ing sistemas
+#Manuel Felipe Barrera Barrera
+
+
 import math
 
 
