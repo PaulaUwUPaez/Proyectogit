@@ -11,7 +11,8 @@ PROGRAMA SIMULACION RENDIJA
 En este apartado se creo un codigo especial para el funcionamiento y explicación de las probabilidades que se creaban a la hora de realizar el experimento de la
 doble rendija, expuesto en clase "proyectoexposicion"
 
-
+Forma de uso:
+En los programas se encuentra asignado el tipo de parametro deseado y lo que este debe retornar en base a sus asignaciones.
 
 
 Autor: Manuel Felipe Barrera Barrera
